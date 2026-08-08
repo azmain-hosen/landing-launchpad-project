@@ -92,6 +92,10 @@
     font-weight: 900;
 }
 
+body{
+    background-color: #F8F9FA;
+}
+
 /* Header section style*/
 
 .sign-up-section {
@@ -259,7 +263,7 @@
 /* Ready to focus section style */
 
 .ready-focus-section {
-    background-color: #F8F9FA;
+    background-color: #FFFFFF;
     border-radius: 14px;
     padding: 71px 0;
     display: flex;
@@ -354,7 +358,7 @@
 /* Footer section */
 
 .footer-section {
-    background-color: #F9FAFB;
+    background-color: #FFFFFF;
     margin-top: 104px;
     display: flex;
     flex-direction: column;
@@ -373,8 +377,8 @@
     margin-bottom: 20px;
 }
 
-.footer-link {
-    margin-bottom: 103px;
+.footer-links {
+    margin-bottom: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
